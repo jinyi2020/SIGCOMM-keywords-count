@@ -1,0 +1,105 @@
+datacenters,data center,data centers,datacenter,datacenters;
+transport protocol,transport protocols
+data center network,data center networks,datacenter network,datacenter networks
+software defined networking,software- defined networking,software-defined networking
+network measurements,network measurement
+content provider,content providers
+mobile network,mobile networks
+wireless network,wireless networks
+load-balancing,load balancing
+programmable networks,programmable network
+wide area networks,wide-area networks
+software-defined network,software defined networks,software-defined networks,software defined network
+network modelling,network modeling
+network flows,network flow
+measurements,measurement
+internet measurements,internet measurement
+free-space optics,free space optics
+programmable data plane,programmable dataplanes,programmable data planes
+networksecurity,network security
+storage networks,storage network
+operating systems,operating system
+network stack,network stacks
+smart surfaces,smart surface
+fault tolerance,fault-tolerance
+phased arrays,phased array
+millimeter-wave,millimeter wave
+content delivery networks,content delivery network
+cellular network,cellular networks
+energy efficiency,energy-efficiency
+distributed system,distributed systems
+network functions virtualisation,network function virtualization,network functions virtualization
+network resilience,network resiliency
+routing protocol,routing protocols
+network functions performance,network function performance
+control plane,control-plane
+peformance,performance
+microservices,microservice
+network architecture,network architectures
+virtualization,virtualisation
+multipath tcp,multi-path tcp
+smart homes,smart home
+network function,network functions
+bit rate adaptation,bitrate adaptation
+full-duplex,full duplex
+page load times,page load time
+content distribution networks,content distribution network
+resiliency,resilience
+optimization.,optimization
+network programming languages,network programming language
+data-intensive applications,data-intensive applications;
+reconfigurablility,reconfigurability
+domain specific language,domain-specific language
+differentiated services,differentiated service
+protocol behaviors,protocol behavior
+fine-grained,fine grained
+high-performance,high performance
+software defined networking (sdn),software-defined networking (sdn)
+link state routing,link-state routing
+active measurements,active measurement
+software defined radio,software-defined radio
+virtual network,virtual networks
+datacenter networking,data center networking
+#network qos,network os
+network applications,network application
+web browser,web browsers
+content centric networking,content-centric networking
+ip lookups,ip lookup
+public key infrastructures,public key infrastructure
+overlay networks,overlay network
+source routin,source routing
+social network,social networks
+online social networks,online social network
+storage system;,storage system,storage systems
+home network,home networks
+key-value stores,key-value store
+state machines,state machine
+multi-threading,multithreading
+applications,application
+simulations,simulation
+collaborations,collaboration
+cross-layer,cross layer
+policy based routing,policy-based routing
+smart device,smart devices
+multicore,multi-core
+bloom filters,bloom filter
+prefetching,pre-fetching
+device drivers,device driver
+rate adaptation,rate-adaptation
+sybil attacks,sybil attack
+as relationships,as relationship
+interdomain routing,inter-domain routing
+wireless sensor network,wireless sensor networks
+network configurations,network configuration
+#ieee 802.11,ieee 802.11n
+delay tolerant network,delay tolerant networks,delay-tolerant network,delay-tolerant networks
+multipath routing,multi-path routing
+sensor network,sensor networks
+peer-to-peer system,peer-to-peer systems
+blacklists,blacklist
+enterprise network,enterprise networks
+regular expression,regular expressions
+distributed hash tables,distributed hash table
+dos attack,dos attacks
+path vector protocols,path-vector protocols
+high speed networks,high-speed networks

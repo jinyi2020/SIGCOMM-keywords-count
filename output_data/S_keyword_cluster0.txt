@@ -1,0 +1,33 @@
+congestion control,tcp congestion control
+5g,5g nr
+end-to-end evaluation,end-to-end performance
+sdn,temporospatial sdn
+modeling,p4 modeling,rssi modeling
+privacy,middlebox privacy
+wireless,wireless phy
+sensing,uav sensing
+verification,p4 verification
+synthesis,p4 synthesis
+model,rmt model
+routing,l2 routing,qos routing,interdomain routing
+latency,latency sla
+reliability,middlebox reliability
+hijacking,bgp hijacking
+monitoring,pki monitoring
+routing protocol,interdomain routing protocol
+packet processing software,software packet processing
+control plane,sfc control plane
+security,bgp security
+bgp-mux,netfpga-sume,kullback-leibler
+ecn;,dctcp;,coflow;
+fdd systems,p2p systems
+network,network qos,network mimo
+802.11,ieee 802.11
+architecture,rli architecture
+active,active rfid
+kernel module,openwrt kernel module
+capacity,capacity overprovisioning
+sdr platform,netmagic platform
+802.11n,ieee 802.11n
+multi-hop wireless networks,wireless multi-hop networks
+zone routing,routing zone
